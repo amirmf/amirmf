@@ -38,6 +38,6 @@ So it limits me to publish my works on github, but im gonna start publishing my 
 * **analyze-driving-bhv**: Driver Behaviur Analyze Engine by getting data from driver phone or car-based IOT devices. Visit Source code [HERE](https://github.com/amirmf/analyze-driving-bhv)
 * **asqar-trader**: It's a simple trading platform that connects to Kucoin, Binance, etc and get your strategies and formulas(bot) as input(in JSON format) and do the automatic buy/sell based on your definitions. Visit Source code [HERE](https://github.com/amirmf/asqar-trader)
 ---
-### You can visit my online resume by clicking-> [download my resume](https://resume.io/r/Pi7jzA9WV)
+### You can visit my online resume by clicking-> [download my resume]([https://resume.io/r/Pi7jzA9WV](https://resume.io/r/Pi7jzA9WV))
 
 
